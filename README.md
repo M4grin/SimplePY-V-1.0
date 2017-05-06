@@ -4,3 +4,5 @@ Eu pretendo trazer novas versões desse projeto com mais ferramentas é etc...,E
 O Projeto e livre para ser editado por ser um projeto de estudo.
 Não foi feito com argumentos para começar do básico porém como disse pretendo ir otimizando ele para que os novatos consigam entedelo melhor...
 Thanks.
+  PARA ESSA VERSÃO E PARA AS PROXIMAS E NECESSARIO O PYTHON 3!!!
+  FOR THIS VERSION AND FOR THE NEXT NEEDS PYTHON 3!!
