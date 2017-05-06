@@ -23,7 +23,7 @@ opt() #CHAMO A FUNÇÃO ACIMA
 opc=int(input("[+] Digite a opcao: ")) #PEÇO A OPÇÃO COMO UM INTEIRO
 if opc == 1: #SE A OPÇÃO ACIMA FOR IGUAL A 1 FAÇA ISSO{
 	try: #TENTE FAZER ISSO ABAIXO
-		skp=input("[+] Skype: ") #PEDE O SKYPE DO ALVO
+		skp=input("[+] Skype do ALVO: ") #PEDE O SKYPE DO ALVO
 		url='http://webresolver.nl/api.php?key=VNV4I-DMJ4L-6MDW8-MBXTO&json&action=resolve&string='+skp #SALVO A API + O SKYPE DO ALVO
 		ir=requests.get(url) #VO ATÉ A URL + SKYPE ACIMA COM REQUESTS
 		r=ir.text # SALVO OQUE APARECE NA URL NA VARIAVEL R DE RESULTADO
