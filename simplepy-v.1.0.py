@@ -5,7 +5,7 @@
 import requests #IMPORTO requests
 import colorama #IMPORTO colorama
 import json #IMPORTO json
-from colorama import Fore #IMPORTO Fore
+from colorama import Fore #DO colorama IMPORTO Fore
 colorama.init() # INICIO O colorama
 def opt(): #FUNÇÃO DE MOSTRAR AS OPÇÕES E CREDITOS
 	print ("""
